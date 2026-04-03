@@ -1,8 +1,8 @@
-# Hi, I’m Shane Reyes 🪖💻
+# Hi, I’m Shane Reyes 💻
 
-### Veteran | Computer Science Student @ CSU East Bay | Aspiring AI Engineer
+### Veteran | Computer Science Student @ CSU East Bay | Aspiring Software Engineer
 
-I am a U.S. Army Veteran and CS student (graduating Dec 2026) dedicated to building software that bridges the gap between complex data and human-centric solutions. From managing high-stakes logistics to developing AI-driven kinematic analyzers, I thrive on accountability and technical growth.
+I am a U.S. Army Veteran and CS student (graduating Dec 2026) dedicated to building fun things that solve problems.
 
 ---
 
@@ -22,16 +22,16 @@ I am a U.S. Army Veteran and CS student (graduating Dec 2026) dedicated to build
 
 ---
 
-### 📈 Metrics of Impact
-- **98%** shift coverage rate managed as a Regional Coordinator.
-- **60%** reduction in document processing time through digital modernization.
-- **Top 5%** finish at CalHacks 12.0 with the "LoanLy" AI-assisted finance platform.
+### 📈 Fun Facts
+- I love Jesus, my wife, and food
+- I enjoy escape rooms, hiking, going to the gym and training Muay Thai and Jiu Jitsu
+- Currently playing Arc Raiders and TFT when I can
+- Living with no ACL in my right knee
+
 
 ---
 
 ### 📬 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/shanekellyreyes)
-- 📧 [Email](mailto:sreyes54@horizon.csueastbay.edu)
-- 🕸️ [Portfolio/GitHub](https://github.com/shanekellyreyes)
 
 *"Mission first, people always—translated into clean, scalable code."*
