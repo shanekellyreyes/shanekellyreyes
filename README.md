@@ -8,10 +8,10 @@ I am a U.S. Army Veteran and CS student (graduating Dec 2026) dedicated to build
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** Python, C++, Java, JavaScript, TypeScript
-- **Frameworks/Libs:** FastAPI, React, Node.js, OpenCV, MediaPipe, Tailwind CSS
-- **Tools:** Git, GitHub, Cursor, Figma, Docker
-- **Special Interests:** LLMs, Agentic AI, Model Context Protocol (MCP), Knowledge Graphs
+- **Languages:** Python, Java, C++, SQL, JavaScript, TypeScript
+- **Frameworks/Libs:** Spring Boot, FastAPI, React, Node.js, OpenCV, MediaPipe
+- **AI-Assisted Dev:** Cursor, Claude Code, GitHub Copilot/Codex
+- **Special Interests:** Agentic AI, Model Context Protocol (MCP), Knowledge Graphs, RAG
 
 ---
 
