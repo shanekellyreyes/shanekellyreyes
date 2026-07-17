@@ -17,7 +17,7 @@ I am a U.S. Army Veteran and CS student (graduating Dec 2026) dedicated to build
 
 ### 🚀 Current Focus
 - 🥋 **Combat Kinematics Analyzer:** Building a computer vision system using MediaPipe/FastAPI to track 3D pose landmarks and provide automated martial arts form feedback.
-- 🏗️ **ASPIRES @ LBNL:** Applying for research internships at Lawrence Berkeley National Lab to work on LLM-driven scientific tools.
+- 🏗️ **ASPIRES @ LBNL:** Current AI and Automation intern at Lawrence Berkeley National Lab to work on LLM-driven scientific tools.
 - ⚡ **HackHayward 2026:** Leading technical platform logistics for CSU East Bay's collegiate hackathon.
 
 ---
