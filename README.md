@@ -32,7 +32,7 @@ Right now, I’m focused on strengthening my software engineering fundamentals w
 
 - ⚡ **Technical Team Lead — HackHayward 2026:** Led technical operations for CSU East Bay’s 150+ participant collegiate hackathon, supporting Devpost, judging workflows, sponsor resources, technical troubleshooting, and internal automation.
 
-- 🪖 **Signal Support Systems Specialist — U.S. Army:** Maintained and troubleshot secure communication systems, networking equipment, and cryptographic devices while training personnel on technical systems and troubleshooting procedures.
+- 🏥 **Regional Coordinator — Ways Home Care LLC:** Digitized application and onboarding workflows, built centralized tracking and communication systems, and improved scheduling, documentation, and operational efficiency across caregiver and client coordination.
 
 ---
 
