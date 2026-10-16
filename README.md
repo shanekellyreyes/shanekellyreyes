@@ -14,7 +14,7 @@ Right now, I’m focused on strengthening my software engineering fundamentals w
 - **Frameworks & AI:** React, FastAPI, Node.js, OpenCV, MediaPipe, Streamlit, LLM APIs
 - **Data & Backend:** PostgreSQL, Supabase, Google Apps Script
 - **Developer Tools:** Git, GitHub Actions, Vite, Tailwind CSS, Cursor, VS Code
-- **AI Tools:** Gemini, Claude, GitHub Copilot
+- **AI Tools:** Codex, Cursor, Gemini, Claude, GitHub Copilot
 
 ---
 
